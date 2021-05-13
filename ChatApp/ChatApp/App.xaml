@@ -11,7 +11,6 @@
             <local:ScaleXAML x:Key="scale"/>
             <Style x:Key="EntryStyle" TargetType="Entry">
                 <Setter Property="HorizontalOptions" Value="FillAndExpand"/>
-                <Setter Property="Margin" Value="{Binding Converter={StaticResource scale}, ConverterParameter='thickness=5,0,5,0'}"/>
                 <Setter Property="Keyboard" Value="Text"/>
                 <Setter Property="ReturnType" Value="Next"/>
                 <Setter Property="TextColor" Value="Black"/>

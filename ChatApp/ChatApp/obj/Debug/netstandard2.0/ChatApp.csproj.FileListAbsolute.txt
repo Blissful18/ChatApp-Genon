@@ -14,3 +14,4 @@ C:\Users\Nicole Genon\source\repos\ChatApp\ChatApp\ChatApp\obj\Debug\netstandard
 C:\Users\Nicole Genon\source\repos\ChatApp\ChatApp\ChatApp\obj\Debug\netstandard2.0\Pages\create.xaml.g.cs
 C:\Users\Nicole Genon\source\repos\ChatApp\ChatApp\ChatApp\obj\Debug\netstandard2.0\Pages\ResetPassword.xaml.g.cs
 C:\Users\Nicole Genon\source\repos\ChatApp\ChatApp\ChatApp\obj\Debug\netstandard2.0\Pages\TabPage.xaml.g.cs
+C:\Users\Nicole Genon\source\repos\ChatApp\ChatApp\ChatApp\obj\Debug\netstandard2.0\ChatApp.csproj.CoreCompileInputs.cache

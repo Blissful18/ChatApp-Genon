@@ -1340,7 +1340,8 @@ int mipmap googlesignup 0x7f0c0006
 int mipmap icon 0x7f0c0007
 int mipmap icon_round 0x7f0c0008
 int mipmap launcher_foreground 0x7f0c0009
-int mipmap personicon 0x7f0c000a
+int mipmap logo 0x7f0c000a
+int mipmap personicon 0x7f0c000b
 int string abc_action_bar_home_description 0x7f0d0000
 int string abc_action_bar_up_description 0x7f0d0001
 int string abc_action_menu_overflow_description 0x7f0d0002

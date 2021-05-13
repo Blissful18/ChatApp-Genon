@@ -3,5 +3,6 @@
   <PropertyGroup>
     <SelectedDevice>HUAWEI INE-LX2</SelectedDevice>
     <AndroidDesignerPreferredTheme>Theme.AppCompat.Light.NoActionBar</AndroidDesignerPreferredTheme>
+    <ActiveDebugProfile>HUAWEI INE-LX2</ActiveDebugProfile>
   </PropertyGroup>
 </Project>
